@@ -1,3 +1,4 @@
-# My Awesome Book
+# Swift 
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+记录swift2.0 - swift 4.2 之间的演变,以及Swfit 语言本身的特性
+
